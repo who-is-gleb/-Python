@@ -5,4 +5,4 @@ Here I analyzed what type of startups tend to fail their crowdfunding and what s
 I downloaded the data from Kaggle.com, cleaned it, and analyzed it. Then, I came up with some data conclusions and visualization.
 
 File "finalProjectDriver" is where you can find my Main method. 
-File "finalProjectFunctions" is where all the functions for my Main method are stored.
+File "finalProjectFunctions" is where some of the additional functions for my Main method are stored.
